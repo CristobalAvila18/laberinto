@@ -20,9 +20,9 @@ que se encuentra delante de el, para poder llegar a la meta, en la cual lo esper
 * Para cerrar el juego, tendra que precionar el boton "x" ubicado en el extremo superior derecho de la ventana.
 
 *INFORMARCION*
--Este programa fue hecho por los alumnos: Manuel Avila y Lucas Pavez; estudiantes de primer año, de la carrera Ingeniera Civil en Bioinformatica, para la Asignatura Programacion I, guiado por su profesor Fabio Duran Verdugo, como primer proyecto.
+* Este programa fue hecho por los alumnos: Manuel Avila y Lucas Pavez; estudiantes de primer año, de la carrera Ingeniera Civil en Bioinformatica, para la Asignatura Programacion I, guiado por su profesor Fabio Duran Verdugo, como primer proyecto.
 
--El programa queda a libre disposicion por si alguien se anima a resolver la problematica que falta, como es "atravesar paredes".
+* El programa queda a libre disposicion por si alguien se anima a resolver la problematica que falta, como es "atravesar paredes".
 
--Esperamos poder traer mas adelantes codigos muchos mas eficaces y de nivel programador.
-Muchas Gracias.
+* Esperamos poder traer mas adelantes codigos muchos mas eficaces y de nivel programador.
+  Muchas Gracias.
